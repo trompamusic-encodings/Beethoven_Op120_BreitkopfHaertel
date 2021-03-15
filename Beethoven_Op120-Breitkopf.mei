@@ -6116,9 +6116,7 @@
                                         <layer xml:id="layer-0000000124524617" n="5">
                                             <chord xml:id="chord-0000001480807909" dots="1" dur="4" cue="false" stem.dir="down">
                                                 <note xml:id="note-0000001236165741" oct="3" pname="b"/>
-                                                <note xml:id="note-0000000750541480" oct="4" pname="d">
-                                                    <accid xml:id="accid-0000000031711882" accid="n"/>
-                                                </note>
+                                                <note xml:id="note-0000000750541480" oct="4" pname="d"/>
                                             </chord>
                                             <chord xml:id="chord-0000001752391484" dur="8" cue="false" stem.dir="down">
                                                 <note xml:id="note-0000000405656318" oct="3" pname="b">
