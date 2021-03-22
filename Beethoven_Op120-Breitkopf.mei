@@ -78,10 +78,10 @@
                      </rend>
                   </pgFoot2>
                   <staffGrp xml:id="staffgrp-0000000664100862" bar.thru="true" symbol="brace">
-                     <staffDef xml:id="staffdef-0000001326781485" n="1" lines="5" ppq="24" clef.shape="G" clef.line="2">
+                     <staffDef xml:id="staffdef-0000001326781485" n="1" lines="5" clef.shape="G" clef.line="2">
                         <instrDef xml:id="instrdef-0000001915352099" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
                      </staffDef>
-                     <staffDef xml:id="staffdef-0000000158473821" n="2" lines="5" ppq="24" clef.shape="F" clef.line="4">
+                     <staffDef xml:id="staffdef-0000000158473821" n="2" lines="5" clef.shape="F" clef.line="4">
                         <instrDef xml:id="instrdef-0000000782878909" midi.channel="1" midi.instrnum="0" midi.volume="78.00%" />
                      </staffDef>
                   </staffGrp>
