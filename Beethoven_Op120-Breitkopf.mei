@@ -40410,7 +40410,7 @@
                            <slur xml:id="slur-0000000804973044" startid="#note-0000000874134988" endid="#note-0000002094573766" curvedir="below" />
                            <slur xml:id="slur-0000002113587078" startid="#note-0000001288851940" endid="#note-0000001075412784" curvedir="below" />
                         </measure>
-                        <pb xml:id="pb-0000001144238532" />
+                        <sb xml:id="sb-0000001144238532" />
                         <measure xml:id="measure-0000000119950535" n="870">
                            <staff xml:id="staff-0000000313408330" n="1">
                               <layer xml:id="layer-0000000712631111" n="1">
