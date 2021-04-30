@@ -88,8 +88,8 @@
                </scoreDef>
                <section xml:id="section-0000000166645121">
                   <section xml:id="Tema">
-                     <expansion plist="#Tema-A #Tema-A #Tema-B #Tema-B1 #Tema-B #Tema-B2" xml:id="expansion-Tema-default" />
-                     <expansion plist="#Tema-A #Tema-B #Tema-B2" xml:id="expansion-Tema-minimal" />
+                     <expansion plist="#Tema-A #Tema-A #Tema-B #Tema-B" xml:id="expansion-Tema-default" />
+                     <expansion plist="#Tema-A #Tema-B" xml:id="expansion-Tema-minimal" />
                      <section xml:id="Tema-A">
                         <measure xml:id="measure-0000002031024709" metcon="false" n="0">
                            <staff xml:id="staff-0000002110088879" n="1">
@@ -28247,7 +28247,7 @@
                            <dynam xml:id="dynam-0000000119378327" place="below" staff="1" tstamp="1.000000" vgrp="40">f</dynam>
                            <tempo xml:id="tempo-0000000208296368" place="above" startid="#note-0000000543084025">Presto.</tempo>
                            <tempo xml:id="tempo-0000000085535580" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000000560327969" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XIX.</rend>
+                              <rend xml:id="rend-0000000560327968" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XIX.</rend>
                            </tempo>
                         </measure>
                      </section>
@@ -32205,8 +32205,8 @@
                      </ending>
                   </section>
                   <section xml:id="Var-XXII">
-                     <expansion plist="#Var-XXII-A #Var-XXII-A #Var-XXII-B #Var-XXII-B" xml:id="expansion-Var-XI-default" />
-                     <expansion plist="#Var-XXII-A #Var-XXII-B" xml:id="expansion-Var-XI-minimal" />
+                     <expansion plist="#Var-XXII-A #Var-XXII-A #Var-XXII-B #Var-XXII-B" xml:id="expansion-Var-XXII-default" />
+                     <expansion plist="#Var-XXII-A #Var-XXII-B" xml:id="expansion-Var-XXII-minimal" />
                      <section xml:id="Var-XXII-A">
                         <measure xml:id="measure-0000001882829793" n="1">
                            <staff xml:id="staff-0000001104374808" n="1">
