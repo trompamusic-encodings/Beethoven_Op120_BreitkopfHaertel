@@ -44600,7 +44600,7 @@
                               </staff>
                               <tempo xml:id="tempo-0000000095051045" place="above" staff="1" tstamp="1.000000" midi.bpm="40">Largo, molto espressivo.</tempo>
                               <tempo xml:id="tempo-0000000843136614" place="above" staff="1" tstamp="1.000000">
-                                 <rend xml:id="rend-0000000930411309" halign="center" fontsize="120.00%" fontweight="bold">Var. XXXI.</rend>
+                                 <rend xml:id="rend-0000000930411309" halign="center" fontsize="120.00%" fontweight="bold">VAR. XXXI.</rend>
                               </tempo>
                               <dir xml:id="dir-0000002123493338" place="below" staff="1" tstamp="1.000000" vgrp="211">tutte le corde</dir>
                               <dir xml:id="dir-0000000065078545" place="below" staff="1" tstamp="1.000000">sotto voce</dir>
