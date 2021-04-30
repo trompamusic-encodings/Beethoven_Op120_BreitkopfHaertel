@@ -44562,7 +44562,7 @@
                      <section xml:id="Var-XXXI">
                         <expansion plist="#Var-XXXI-A #Var-XXXI-A1 #Var-XXXI-A #Var-XXXI-A2 #Var-XXXI-B #Var-XXXI-B1 #Var-XXXI-B #Var-XXXI-B2" xml:id="expansion-Var-XXXI-default" />
                         <expansion plist="#Var-XXXI-A #Var-XXXI-A2 #Var-XXXI-B #Var-XXXI-B2" xml:id="expansion-Var-XXXI-minimal" />
-                        <scoreDef xml:id="scoredef-0000001086467970">
+                        <scoreDef xml:id="scoredef-0000001081267970">
                            <staffGrp xml:id="staffgrp-0000001560905333">
                               <staffDef xml:id="staffdef-0000001730709482" n="1" lines="5" ppq="480">
                                  <clef xml:id="clef-0000000693299791" shape="G" line="2" />
