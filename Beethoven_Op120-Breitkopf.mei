@@ -9558,12 +9558,12 @@
                                     <accid xml:id="accid-0000000424674911" accid="s" />
                                  </note>
                                  <beam xml:id="beam-0000002049348069">
-                                    <note xml:id="note-0000002050265097" dur="16" oct="3" pname="b" grace="unknown" stem.dir="up" />
-                                    <note xml:id="note-0000000282885517" dur="16" oct="4" pname="c" grace="unknown" stem.dir="up" accid.ges="s" />
+                                    <note xml:id="note-0000002050265097" dur="16" oct="3" pname="b" grace="acc" stem.dir="up" />
+                                    <note xml:id="note-0000000282885517" dur="16" oct="4" pname="c" grace="acc" stem.dir="up" accid.ges="s" />
                                  </beam>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001311764416" staff="1" tstamp="3.000000" tstamp2="0m+4.0000" form="dim" place="below" vgrp="80" />
+                           <hairpin xml:id="hairpin-0000001311764416" staff="1" tstamp="3.000000" tstamp2="0m+3.9000" form="dim" place="below" vgrp="80" />
                            <trill xml:id="trill-0000001681841584" staff="2" startid="#note-0000000200065077" />
                            <slur xml:id="slur-0000001531740474" startid="#note-0000000200065077" endid="#note-0000000807331264" curvedir="below" />
                            <trill xml:id="trill-0000001423070196" staff="2" startid="#note-0000001588117982" />
