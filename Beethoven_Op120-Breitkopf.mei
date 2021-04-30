@@ -36071,7 +36071,6 @@
                            <pedal xml:id="pedal-0000000055857308" startid="#note-0000001920244247" dir="down" vgrp="100"/>
                         </measure>
                      </ending>
-                     <pb xml:id="pb-0000001169270341" />
                   </section>
                   <section xml:id="Var-XXV">
                      <expansion plist="#Var-XXV-A0 #Var-XXV-A #Var-XXV-A1 #Var-XXV-A #Var-XXV-A2 #Var-XXV-B0 #Var-XXV-B #Var-XXV-B1 #Var-XXV-B #Var-XXV-B2" xml:id="expansion-Var-XXV-default" />
