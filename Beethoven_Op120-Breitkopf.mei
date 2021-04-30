@@ -32200,10 +32200,10 @@
                            </staff>
                            <dynam xml:id="dynam-0000000192740795" place="below" startid="#note-0000001135626365" vgrp="45">p</dynam>
                            <slur xml:id="slur-0000000140206772" staff="1" tstamp="0.000000" endid="#note-0000001801529008" curvedir="below" />
-<<<<<<< HEAD
                         </measure>
                      </ending>
                   </section>
+                  <pb xml:id="pb-0000000882434471" />
                   <section xml:id="Var-XXII">
                      <expansion plist="#Var-XXII-A #Var-XXII-A #Var-XXII-B #Var-XXII-B" xml:id="expansion-Var-XXII-default" />
                      <expansion plist="#Var-XXII-A #Var-XXII-B" xml:id="expansion-Var-XXII-minimal" />
@@ -36071,8 +36071,6 @@
                            <tie xml:id="tie-0000001266810545" staff="2" tstamp="0.000000" endid="#note-0000000081486557" curvedir="below" />
                            <fermata xml:id="fermata-0000000016040489" staff="2" startid="#note-0000001920244247" form="inv" place="below" />
                            <pedal xml:id="pedal-0000000055857308" startid="#note-0000001920244247" dir="down" vgrp="100" />
-=======
->>>>>>> 6220a4e6913096a7cd9de17b5d8c4a4843f97b2f
                         </measure>
                      </ending>
                   </section>
