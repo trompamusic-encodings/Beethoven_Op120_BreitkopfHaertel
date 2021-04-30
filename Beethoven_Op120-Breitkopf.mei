@@ -1320,7 +1320,7 @@
                               <rend xml:id="rend-0000000602034772" fontfam="FreeSerif" fontweight="bold">Alla Marcia maestoso.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000166649551" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000000560327969" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. I.</rend>
+                              <rend xml:id="rend-0000000560327969" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. I.</rend>
                            </tempo>
                         </measure>
                         <measure xml:id="measure-0000001681767185" n="33">
@@ -2867,7 +2867,7 @@
                               <rend xml:id="rend-0000002055932945" fontfam="FreeSerif" fontweight="bold">Poco allegro.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000453078427" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000002059593974" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. II.</rend>
+                              <rend xml:id="rend-0000002059593974" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. II.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000000773616408" place="above" staff="2" tstamp="1.000000" vgrp="200">p leggiermente</dynam>
                         </measure>
@@ -4570,7 +4570,7 @@
                               <rend xml:id="rend-0000000904234729" fontfam="FreeSerif" fontweight="bold">L'istesso tempo.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000001440110730" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001800337420" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. III.</rend>
+                              <rend xml:id="rend-0000001800337420" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. III.</rend>
                            </tempo>
                            <slur xml:id="slur-0000001162801184" startid="#note-0000001601194763" endid="#note-0000001422205617" curvedir="above"/>
                            <dir xml:id="dir-0000000612217771" place="below" staff="1" tstamp="1.000000" vgrp="200">
@@ -5755,7 +5755,7 @@
                               <rend xml:id="rend-0000001303108603" fontfam="FreeSerif" fontweight="bold">Un poco più vivace.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000229555403" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001257028209" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. IV.</rend>
+                              <rend xml:id="rend-0000001257028209" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. IV.</rend>
                            </tempo>
                            <slur xml:id="slur-0000001005755000" startid="#note-0000001452840770" endid="#note-0000001278784642" curvedir="below"/>
                         </measure>
@@ -6971,7 +6971,7 @@
                               <rend xml:id="rend-0000001292603396" fontweight="bold">Allegro vivace.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000155984895" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001708080925" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. V.</rend>
+                              <rend xml:id="rend-0000001708080925" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. V.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000000214960022" place="below" staff="2" tstamp="1.000000" vgrp="200">p</dynam>
                         </measure>
@@ -9025,7 +9025,7 @@
                               <rend xml:id="rend-0000001607997917" fontweight="bold">Allegro ma non troppo e serioso.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000469817599" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000002074500021" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. VI.</rend>
+                              <rend xml:id="rend-0000002074500021" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. VI.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000000732288950" place="below" staff="1" tstamp="1.000000" vgrp="40">ff</dynam>
                            <trill xml:id="trill-0000001124388419" staff="1" startid="#note-0000000009905434"/>
@@ -10422,7 +10422,7 @@
                               <rend xml:id="rend-0000001994016771" fontweight="bold">Un poco più allegro.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000068652280" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000000640151521" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. VII.</rend>
+                              <rend xml:id="rend-0000000640151521" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. VII.</rend>
                            </tempo>
                            <slur xml:id="slur-0000000943183548" startid="#note-0000000164755733" endid="#note-0000002119623493" curvedir="above"/>
                         </measure>
@@ -11868,7 +11868,7 @@
                               <rend xml:id="rend-0000001528009583" fontweight="bold">Poco vivace.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000709180986" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000000670590852" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. VIII.</rend>
+                              <rend xml:id="rend-0000000670590852" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. VIII.</rend>
                            </tempo>
                         </measure>
                         <measure xml:id="measure-0000002008698450" left="rptstart" n="272">
@@ -13066,7 +13066,7 @@
                               <rend xml:id="rend-0000001574359233" fontweight="bold">Allegro pesante e risoluto.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000001993876820" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001752885952" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. IX.</rend>
+                              <rend xml:id="rend-0000001752885952" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. IX.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000001954962671" place="below" staff="2" tstamp="1.000000" vgrp="40">f</dynam>
                            <slur xml:id="slur-0000002060658276" startid="#note-0000001933202877" endid="#note-0000001597620867" curvedir="below"/>
@@ -14765,7 +14765,7 @@
                            <rend xml:id="rend-0000001806918438" fontweight="bold">Presto.</rend>
                         </tempo>
                         <tempo xml:id="tempo-0000000472010739" place="above" staff="1" tstamp="1.000000">
-                           <rend xml:id="rend-0000000279898355" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. X.</rend>
+                           <rend xml:id="rend-0000000279898355" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. X.</rend>
                         </tempo>
                      </measure>
                      <measure xml:id="measure-0000000492815061" n="337">
@@ -17263,7 +17263,7 @@
                               <rend xml:id="rend-0000000862133323" fontweight="bold">Allegretto.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000188669988" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001290625344" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XI.</rend>
+                              <rend xml:id="rend-0000001290625344" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. XI.</rend>
                            </tempo>
                            <slur xml:id="slur-0000001955096386" startid="#note-0000001665767354" endid="#note-0000001850327859" curvedir="above"/>
                         </measure>
@@ -18519,7 +18519,7 @@
                            <rend xml:id="rend-0000001701730393" fontweight="bold">Un poco più moto.</rend>
                         </tempo>
                         <tempo xml:id="tempo-0000002145599338" place="above" staff="1" tstamp="1.000000">
-                           <rend xml:id="rend-0000000542673342" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XII.</rend>
+                           <rend xml:id="rend-0000000542673342" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. XII.</rend>
                         </tempo>
                         <dynam xml:id="dynam-0000000531702351" place="above" staff="2" tstamp="1.000000" vgrp="200">p</dynam>
                         <slur xml:id="slur-0000001434144406" startid="#note-0000000923757567" endid="#note-0000001132653246" curvedir="above"/>
@@ -20669,7 +20669,7 @@
                               <rend xml:id="rend-0000001331207860" fontfam="FreeSerif" fontweight="bold">Vivace.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000001727586752" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000002143275147" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XIII.</rend>
+                              <rend xml:id="rend-0000002143275147" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. XIII.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000000320749904" place="below" startid="#chord-0000001242954567">f</dynam>
                         </measure>
@@ -21831,7 +21831,7 @@
                               <rend xml:id="rend-0000000733812216" fontfam="FreeSerif" fontweight="bold">Grave e maestoso.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000230824046" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001087520411" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XIV.</rend>
+                              <rend xml:id="rend-0000001087520411" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. XIV.</rend>
                            </tempo>
                            <slur xml:id="slur-0000001807419455" startid="#note-0000000985494217" endid="#note-0000000767998116" curvedir="above"/>
                         </measure>
@@ -23290,7 +23290,7 @@
                               <rend xml:id="rend-0000001335503894" fontfam="FreeSerif" fontweight="bold">Presto scherzando.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000001452136699" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000000880091309" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XV.</rend>
+                              <rend xml:id="rend-0000000880091309" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. XV.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000001005636369" place="between" staff="1 2" tstamp="1.000000" vgrp="40">sempre pp</dynam>
                         </measure>
@@ -24398,7 +24398,7 @@
                               <rend xml:id="rend-0000002127463302" fontfam="FreeSerif" fontweight="bold">Allegro.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000365027840" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000000080411364" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XVI.</rend>
+                              <rend xml:id="rend-0000000080411364" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. XVI.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000000766657700" place="below" staff="1" tstamp="1.000000" vgrp="40">f</dynam>
                            <tie xml:id="tie-0000001867811712" startid="#note-0000000526408815" endid="#note-0000002061758208"/>
@@ -25727,7 +25727,7 @@
                            </staff>
                            <dynam xml:id="dynam-0000001582559420" place="below" staff="1" tstamp="1.000000" vgrp="40">f</dynam>
                            <tempo xml:id="tempo-0000001352216754" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001240372201" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XVII.</rend>
+                              <rend xml:id="rend-0000001240372201" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. XVII.</rend>
                            </tempo>
                         </measure>
                         <measure xml:id="measure-0000001371976676" n="574">
@@ -27048,7 +27048,7 @@
                            </staff>
                            <tempo xml:id="tempo-0000000092820604" place="above" staff="1" tstamp="1.000000">Poco moderato.</tempo>
                            <tempo xml:id="tempo-0000002112358562" place="above" staff="1" tstamp="0.000000" midi.bpm="155">
-                              <rend xml:id="rend-0000000289394078" fontsize="120.00%" fontweight="bold">Var. XVIII</rend>
+                              <rend xml:id="rend-0000000289394078" fontsize="120.00%" fontweight="bold">VAR. XVIII</rend>
                            </tempo>
                            <slur xml:id="slur-0000000219568822" startid="#chord-0000000766958763" endid="#chord-0000001763872141" curvedir="above"/>
                            <dynam xml:id="dynam-0000002057254589" place="below" staff="1" tstamp="1.000000" vgrp="40">p dolce</dynam>
@@ -28247,7 +28247,7 @@
                            <dynam xml:id="dynam-0000000119378327" place="below" staff="1" tstamp="1.000000" vgrp="40">f</dynam>
                            <tempo xml:id="tempo-0000000208296368" place="above" startid="#note-0000000543084025">Presto.</tempo>
                            <tempo xml:id="tempo-0000000085535580" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000000560327968" fontsize="120.00%" fontstyle="normal" fontweight="bold">Var. XIX.</rend>
+                              <rend xml:id="rend-0000000560327968" fontsize="120.00%" fontstyle="normal" fontweight="bold">VAR. XIX.</rend>
                            </tempo>
                         </measure>
                      </section>
@@ -29525,7 +29525,7 @@
                         </staff>
                         <tempo xml:id="tempo-0000000450766442" place="above" staff="1" tstamp="1.000000">Andante.</tempo>
                         <tempo xml:id="tempo-0000001115634137" place="above" staff="1" tstamp="0.000000">
-                           <rend xml:id="rend-0000002008783536" fontsize="120.00%" fontweight="bold">Var. XX.</rend>
+                           <rend xml:id="rend-0000002008783536" fontsize="120.00%" fontweight="bold">VAR. XX.</rend>
                         </tempo>
                         <dynam xml:id="dynam-0000000838771872" place="above" staff="2" tstamp="1.000000">
                            <rend xml:id="rend-0000001918144916" halign="right">p</rend>
@@ -30602,7 +30602,7 @@
                            <dynam xml:id="dynam-0000000448502373" place="between" staff="1 2" tstamp="1.000000" vgrp="40">f</dynam>
                            <tempo xml:id="tempo-0000000790455389" place="above" staff="1" tstamp="1.000000">Allegro con brio.</tempo>
                            <tempo xml:id="tempo-0000001170840199" place="above" staff="1" tstamp="0.000000" midi.bpm="160">
-                              <rend xml:id="rend-0000001318802731" fontsize="120.00%" fontweight="bold">Var. XXI.</rend>
+                              <rend xml:id="rend-0000001318802731" fontsize="120.00%" fontweight="bold">VAR. XXI.</rend>
                            </tempo>
                            <slur xml:id="slur-0000001764342408" startid="#note-0000000181877479" endid="#note-0000002020900580" curvedir="below"/>
                            <trill xml:id="trill-0000000074894320" startid="#note-0000000181877479" place="above"/>
@@ -32261,7 +32261,7 @@
                            <tempo xml:id="tempo-0000000096485976" place="above" staff="1" tstamp="1.000000" midi.bpm="200">Allegro molto <rend xml:id="rend-0000001193034348" fontsize="80.00%" fontweight="normal">alla „Notte e giorno faticar“ di Mozart.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000905860797" place="above" staff="1" tstamp="0.000000">
-                              <rend xml:id="rend-0000001545364818" fontsize="120.00%" fontweight="bold">Var. XXII.</rend>
+                              <rend xml:id="rend-0000001545364818" fontsize="120.00%" fontweight="bold">VAR. XXII.</rend>
                            </tempo>
                         </measure>
                         <measure xml:id="measure-0000001350068576" n="713">
@@ -33161,7 +33161,7 @@
                            </staff>
                            <tempo xml:id="tempo-0000000162955022" place="above" staff="1" tstamp="1.000000" midi.bpm="160">Allegro assai.</tempo>
                            <tempo xml:id="tempo-0000000348047874" place="above" staff="1" tstamp="0.000000">
-                              <rend xml:id="rend-0000001189594727" fontsize="120.00%" fontweight="bold">Var. XXIII.</rend>
+                              <rend xml:id="rend-0000001189594727" fontsize="120.00%" fontweight="bold">VAR. XXIII.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000001956177251" place="below" staff="1 2" tstamp="1.000000" vgrp="40">f</dynam>
                            <dynam xml:id="dynam-0000000562218769" place="below" staff="1" tstamp="2.500000" vgrp="40">p</dynam>
@@ -34657,7 +34657,7 @@
                            <tempo xml:id="tempo-0000000539546256" place="above" staff="1" tstamp="1.000000" midi.bpm="84">Andante.</tempo>
                            <tempo xml:id="tempo-0000000539546257" place="above" staff="1" tstamp="1.000000">Fughetta.</tempo>
                            <tempo xml:id="tempo-0000000539546258" place="above" staff="1" tstamp="0.000000">
-                              <rend xml:id="rend-0000001246658550" fontsize="120.00%" fontweight="bold">Var. XXIV.</rend>
+                              <rend xml:id="rend-0000001246658550" fontsize="120.00%" fontweight="bold">VAR. XXIV.</rend>
                            </tempo>
                         </measure>
                      </section>
